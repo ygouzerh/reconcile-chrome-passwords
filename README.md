@@ -92,3 +92,7 @@ The script generates:
 - Multiple records can exist for the same name/url combination
 - Empty fields are handled gracefully
 - File encoding is UTF-8
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
